@@ -1,6 +1,6 @@
 <p align="center"><img src="icon.png"/></p>
 
-# Starter Kit City Builder
+# Starter Kit City Builder - What can I do with this?
 
 This package includes a basic template for a 3D city builder in Godot 4.6. Includes features like;
 
